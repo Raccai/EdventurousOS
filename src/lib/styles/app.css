@@ -46,7 +46,7 @@ body {
   width: 100dvw;
   height: 100dvh;
   overflow: hidden;
-  background: url("/src/bg/4k.avif") fixed center / cover;
+  background: url("/bg/4k.avif") fixed center / cover;
 }
 
 .blur {

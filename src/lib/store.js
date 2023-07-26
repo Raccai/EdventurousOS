@@ -11,32 +11,32 @@ export let apps = readable([
     {
         id: "Music",
         component: Music,
-        icon: "/src/icons/Music.svg"
+        icon: "/static/icons/Music.svg"
     },
     {
         id: "Terminal",
         component: Terminal,
-        icon: "/src/icons/Terminal.svg"
+        icon: "/static/icons/Terminal.svg"
     },
     {
         id: "Browser",
         component: Browser,
-        icon: "/src/icons/Computer.svg"
+        icon: "/static/icons/Computer.svg"
     },
     {
         id: "Sticky",
         component: Sticky,
-        icon: "/src/icons/Sticky.svg"
+        icon: "/static/icons/Sticky.svg"
     },
     {
         id: "Notes",
         component: Notes,
-        icon: "/src/icons/NotesMain.svg"
+        icon: "/static/icons/NotesMain.svg"
     },
     {
         id: "About",
         component: About,
-        icon: "/src/icons/About.svg"
+        icon: "/static/icons/About.svg"
     }
 ])
 

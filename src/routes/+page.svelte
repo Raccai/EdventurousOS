@@ -3,7 +3,7 @@
 </script>
 
 <div class="fullscreen dark flex flex-jc flex-ac flex-dirc">
-        <img src="src/icons/EdventureLogo.svg" alt="Logo">
+        <img src="static/icons/EdventureLogo.svg" alt="Logo">
         <h1>Welcome, future edventurous intern.</h1>
         <h3>Yeehaw, pasok kayo pls, and learn about the what it's like to be an intern at Edventure</h3>
         <a href="/desktop">Sign In</a>
@@ -19,7 +19,7 @@
         font-weight: 300;
     }
     div {
-        background: url("/src/bg/4k_2.avif");
+        background: url("/static/bg/4k_2.avif");
     }
     img {
         height: 300px;
