@@ -73,7 +73,7 @@
     div.img {
         width: 100%;
         height: 80%;
-        background: url("/static/bg/4k_2.avif");
+        background: url("/bg/4k_2.avif");
         background-size: cover;
     }
     div#box {

@@ -14,7 +14,7 @@
 <App {...AppDetails}>
         <Titlebar {title}/>
         <div class="content flex flex-ac flex-jc flex-dirc">
-            <img class="edv-logo" src="/static/bg/EdventureQR.png" alt="Edventure Logo">
+            <img class="edv-logo" src="/bg/EdventureQR.png" alt="Edventure Logo">
 
             <span id="title">EdventurousOS</span>
             <span style:text-align=center style:font-size=0.8rem style:color="#F9F4E8"><i>*Not a product of Edventure.ph</i></span>

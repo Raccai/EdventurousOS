@@ -23,7 +23,7 @@
 	function neofetch() {
 		return `<br>
 		<div class="neofetch flex flex-ac" style="gap: 1rem;">
-			<img src="/static/icons/RaccaiLogo.svg" alt="logo" width="100rem" height="100rem"/>
+			<img src="/icons/RaccaiLogo.svg" alt="logo" width="100rem" height="100rem"/>
 			<div class="text">
 				<b>Operating System: </b>EdventurousOS<br>
 				<b>Created by:</b>
@@ -38,7 +38,7 @@
 	function cx() {
 		return `<br>
 		<div class="neofetch flex flex-ac" style="gap: 1rem;">
-			<img src="/static/icons/MainIcon.svg" alt="logo" width="100rem" height="100rem"/>
+			<img src="/icons/MainIcon.svg" alt="logo" width="100rem" height="100rem"/>
 			<div class="text">
 				<b>Customer Experience: </b>Customer experience (CX) refers to how a business engages with its customers at every
 				point of their journey with the company—from marketing to sales to customer service and everywhere in between<br>
@@ -55,7 +55,7 @@
 	function pm() {
 		return `<br>
 		<div class="neofetch flex flex-ac" style="gap: 1rem;">
-			<img src="/static/icons/Folder.svg" alt="logo" width="100rem" height="100rem"/>
+			<img src="/icons/Folder.svg" alt="logo" width="100rem" height="100rem"/>
 			<div class="text">
 				<b>Project Management: </b>Project management is the application of processes, methods, skills, knowledge and experience
 				to achieve specific project objectives according to the project acceptance criteria within agreed parameters.<br>
@@ -75,7 +75,7 @@
 	function ux() {
 		return `<br>
 		<div class="neofetch flex flex-ac" style="gap: 1rem;">
-			<img src="/static/icons/Cards.svg" alt="logo" width="100rem" height="100rem"/>
+			<img src="/icons/Cards.svg" alt="logo" width="100rem" height="100rem"/>
 			<div class="text">
 				<b>User Experience: </b>User experience (UX) design is the process design teams use to create products that provide meaningful
 				and relevant experiences to users. UX design involves the design of the entire process of acquiring and integrating the product,
