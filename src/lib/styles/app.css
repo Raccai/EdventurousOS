@@ -1,0 +1,100 @@
+:root {
+  --color-primary1: #FBB217;
+  --color-primary2: #66BEB9;
+  --color-text: #050606;
+  --color-bg: #F9F4E8;
+  --color-accent1: #F05253;
+  --color-accent2: #324692;
+}
+
+@font-face {
+    font-display: swap;
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 400;
+    src: url('/fonts/Outfit-Light.woff2') format('woff2');
+  }
+  
+@font-face {
+  font-display: swap;
+  font-family: 'Outfit';
+  font-style: normal;
+  font-weight: 600;
+  src: url('/fonts/Outfit-Regular.woff2') format('woff2');
+}
+
+@font-face {
+  font-display: swap;
+  font-family: 'Outfit';
+  font-style: normal;
+  font-weight: 900;
+  src: url('/fonts/Outfit-Bold.woff2') format('woff2');
+}
+  
+* {
+  box-sizing: border-box;
+  font-family: sans-serif;
+  font-family: "Outfit", sans-serif;
+}
+
+html {
+  background: black;
+}
+
+body {
+  margin: 0;
+  width: 100dvw;
+  height: 100dvh;
+  overflow: hidden;
+  background: url("/src/bg/4k.avif") fixed center / cover;
+}
+
+.blur {
+  background-color: #100f0f61;
+  backdrop-filter: blur(10px);
+  color: white;
+}
+
+.shutdown_blur {
+  background-color: rgba(4, 4, 4, 0.584);
+  color: white;
+  backdrop-filter: blur(10px);
+}
+
+.fullscreen {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100dvh;
+  width: 100dvw;
+  gap: 1rem;
+  z-index: 100;
+}
+
+.dark {
+  background-color: #131313;
+  color: white;
+}
+
+.flex {
+  display: flex;
+}
+
+.flex-jc {
+  justify-content: center;
+}
+
+.flex-ac {
+  align-items: center;
+}
+
+.flex-dirc {
+  flex-direction: column;
+}
+
+.content {
+  height: inherit;
+  width: inherit;
+  overflow: auto;
+  gap: 1rem;
+}
