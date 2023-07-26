@@ -11,7 +11,7 @@
     {/each}
   </div>
   <div class="tray2">
-    <img class="tray" src="/src/icons/Tray.svg" alt="Tray">
+    <img class="tray" src="/icons/Tray.svg" alt="Tray">
   </div>
 </div>
 
